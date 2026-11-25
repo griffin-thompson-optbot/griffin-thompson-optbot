@@ -1,0 +1,23 @@
+# Fresh OPTBOT GIFs every morning: a random pick from the approved library.
+name: OPTBOT GIFs of the day
+
+on:
+  schedule:
+    - cron: "17 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - run: curl -fsSL https://raw.githubusercontent.com/OptBot-AI/.github/main/.github/scripts/rotate_gifs.py -o /tmp/rotate_gifs.py && python3 /tmp/rotate_gifs.py README.md 5
+      - run: |
+          git config user.name "optbot-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: OPTBOT GIFs of the day [skip optbot]" || echo "no change"
+          git push
