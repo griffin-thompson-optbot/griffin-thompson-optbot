@@ -5,14 +5,14 @@
 
 <p align="center">
 <!-- optbot:gifs -->
-<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/gifs/optbot-launch.gif" height="96" alt="launch" title="launch">
-<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/gifs/optbot-golf-swing.gif" height="96" alt="golf-swing" title="golf-swing">
-<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/reactions/optbot-ping-pong.gif" height="96" alt="ping-pong" title="ping-pong">
-<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/gifs/optbot-hockey-celly.gif" height="96" alt="hockey-celly" title="hockey-celly">
-<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/reactions/optbot-chef.gif" height="96" alt="chef" title="chef">
+<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/tight/optbot-launch.gif" height="110" alt="launch" title="launch">
+<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/tight/optbot-golf-swing.gif" height="110" alt="golf-swing" title="golf-swing">
+<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/tight/optbot-ping-pong.gif" height="110" alt="ping-pong" title="ping-pong">
+<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/tight/optbot-hockey-celly.gif" height="110" alt="hockey-celly" title="hockey-celly">
+<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/tight/optbot-chef.gif" height="110" alt="chef" title="chef">
 <!-- /optbot:gifs -->
 </p>
 <p align="center"><sub>Fresh OPTBOT robots every morning.</sub></p>
 
 <br>
-<p align="center"><img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/gifs/optbot-wave.gif" height="40" alt=""><br><sub><b>OPTBOT</b> · <a href="https://www.optbotai.com">optbotai.com</a></sub></p>
+<p align="center"><img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/tight/optbot-wave.gif" height="48" alt=""><br><sub><b>OPTBOT</b> · <a href="https://www.optbotai.com">optbotai.com</a></sub></p>
