@@ -5,11 +5,11 @@
 
 <p align="center">
 <!-- optbot:gifs -->
-<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/tight/optbot-chef.gif" height="110" alt="chef" title="chef">
-<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/tight/optbot-ball-spin.gif" height="110" alt="ball-spin" title="ball-spin">
-<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/tight/optbot-tennis.gif" height="110" alt="tennis" title="tennis">
-<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/tight/optbot-basketball.gif" height="110" alt="basketball" title="basketball">
-<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/tight/optbot-hockey-celly.gif" height="110" alt="hockey-celly" title="hockey-celly">
+<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/tight/optbot-idea.gif" height="110" alt="idea" title="idea">
+<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/tight/optbot-balloon.gif" height="110" alt="balloon" title="balloon">
+<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/tight/optbot-detective.gif" height="110" alt="detective" title="detective">
+<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/tight/optbot-party.gif" height="110" alt="party" title="party">
+<img src="https://raw.githubusercontent.com/OptBot-AI/.github/main/assets/tight/optbot-shades.gif" height="110" alt="shades" title="shades">
 <!-- /optbot:gifs -->
 </p>
 <p align="center"><sub>Fresh OPTBOT robots every morning.</sub></p>
